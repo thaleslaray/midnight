@@ -1,4 +1,5 @@
 ---
+layout: default
 title: TAMUctf 2017 - Least Important
 date: 2017-04-26 02:20:00 Z
 ---
